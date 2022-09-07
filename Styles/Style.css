@@ -9,3 +9,14 @@ footer{
 h1{
     color:aqua
 }
+h2{
+    color: aliceblue;
+}
+h3{
+    color: red;
+}
+
+p{
+    color: white;
+    background-color: brown;
+}
